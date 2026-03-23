@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Hieu 👋</h2>
+<img width="1019" height="587" alt="image" src="https://github.com/user-attachments/assets/f1393084-3341-4ff6-a7d4-7acbf9bb10c6" /><h2 align="center">Hi! I'm Hieu 👋</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img href="https://dev.to/kimhieu-dev" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
