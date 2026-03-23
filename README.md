@@ -1,4 +1,4 @@
-<img width="1019" height="587" alt="image" src="https://github.com/user-attachments/assets/f1393084-3341-4ff6-a7d4-7acbf9bb10c6" /><h2 align="center">Hi! I'm Hieu 👋</h2>
+<h2 align="center">Hi! I'm Hieu 👋</h2>
 
 ###
 
