@@ -31,7 +31,8 @@
 -->
 ###
 
-<p align="left">Backend Developer with hands-on experience in building scalable RESTful APIs using Java and Spring Boot. Strong understanding of core backend concepts including layered architecture, database design (MySQL), and API development. Familiar with Docker for containerization and Redis for caching to improve performance. Passionate about writing clean, maintainable code following SOLID principles and continuously improving system design skills. Eager to contribute to real-world backend systems and grow in a professional engineering environment.</p>
+<!-- <p align="left">Backend Developer with hands-on experience in building scalable RESTful APIs using Java and Spring Boot. Strong understanding of core backend concepts including layered architecture, database design (MySQL), and API development. Familiar with Docker for containerization and Redis for caching to improve performance. Passionate about writing clean, maintainable code following SOLID principles and continuously improving system design skills. Eager to contribute to real-world backend systems and grow in a professional engineering environment.</p> -->
+<p align="left"> Updating ... </p>
 
 ###
 
