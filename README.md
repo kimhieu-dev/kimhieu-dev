@@ -1,7 +1,7 @@
 <h2 align="center">Hi! I'm Hieu 👋</h2>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
   <img width="12" />
 </div>
-
+-->
 ###
 <!--
 <div align="center">
