@@ -21,16 +21,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
   <img width="12" />
 </div>
+
 ###
 <!--
 <div align="center">
   <img height="132" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2thazQ1c2Zwd2NtdndlZDQ4cmVuZnliaGh2enUwcWEzOXVnazRpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
 </div>
 -->
+
 ###
 
 <!-- <p align="left">Backend Developer with hands-on experience in building scalable RESTful APIs using Java and Spring Boot. Strong understanding of core backend concepts including layered architecture, database design (MySQL), and API development. Familiar with Docker for containerization and Redis for caching to improve performance. Passionate about writing clean, maintainable code following SOLID principles and continuously improving system design skills. Eager to contribute to real-world backend systems and grow in a professional engineering environment.</p> -->
-<p align="left"> Updating ... </p>
 
 ###
 
